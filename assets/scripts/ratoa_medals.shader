@@ -200,6 +200,14 @@ medal_lasier
 		blendFunc blend
 	}
 }
+medal_spiderman
+{
+	nopicmip
+	{
+		clampmap menu/medals/medal_spiderman.tga
+		blendFunc blend
+	}
+}
 medal_thawbuddy
 {
 	nopicmip
