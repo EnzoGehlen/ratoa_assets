@@ -192,6 +192,14 @@ medal_vaporized
 		blendFunc blend
 	}
 }
+medal_lasier
+{
+	nopicmip
+	{
+		clampmap menu/medals/medal_lasier.tga
+		blendFunc blend
+	}
+}
 medal_thawbuddy
 {
 	nopicmip
